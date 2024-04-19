@@ -1,4 +1,4 @@
-package dsae;
+package linearstructure;
 
 public class CircularQueue {
     private int[] queue;
