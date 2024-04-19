@@ -1,4 +1,4 @@
-package dsae;
+package linearstructure;
 public class LinearQueue {
     private int maxSize; // maximum size of the queue
     private int[] queueArray; // array to store the elements of the queue
