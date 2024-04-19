@@ -1,4 +1,4 @@
-package dsae;
+package linearstructure;
 
 import java.util.Stack;
 
